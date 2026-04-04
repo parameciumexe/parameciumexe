@@ -3,8 +3,7 @@
 ### Work in:
 ### - Golang
 ### - Python
-### - Swift (Learning)
-### - Java (Learning)
+### - Rust
 
 - 📫 How to reach me: 
 
